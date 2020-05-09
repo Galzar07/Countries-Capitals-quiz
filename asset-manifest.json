@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Countries-Capitals-quiz/static/css/main.d6abe205.chunk.css",
+    "main.js": "/Countries-Capitals-quiz/static/js/main.7398f610.chunk.js",
+    "main.js.map": "/Countries-Capitals-quiz/static/js/main.7398f610.chunk.js.map",
+    "runtime-main.js": "/Countries-Capitals-quiz/static/js/runtime-main.0a66c321.js",
+    "runtime-main.js.map": "/Countries-Capitals-quiz/static/js/runtime-main.0a66c321.js.map",
+    "static/js/2.47f7773f.chunk.js": "/Countries-Capitals-quiz/static/js/2.47f7773f.chunk.js",
+    "static/js/2.47f7773f.chunk.js.map": "/Countries-Capitals-quiz/static/js/2.47f7773f.chunk.js.map",
+    "index.html": "/Countries-Capitals-quiz/index.html",
+    "precache-manifest.2c42aed410a8f9faadedb06f981ffa13.js": "/Countries-Capitals-quiz/precache-manifest.2c42aed410a8f9faadedb06f981ffa13.js",
+    "service-worker.js": "/Countries-Capitals-quiz/service-worker.js",
+    "static/css/main.d6abe205.chunk.css.map": "/Countries-Capitals-quiz/static/css/main.d6abe205.chunk.css.map",
+    "static/js/2.47f7773f.chunk.js.LICENSE.txt": "/Countries-Capitals-quiz/static/js/2.47f7773f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Countries-Capitals-quiz/static/media/back.b2d1d447.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a66c321.js",
+    "static/js/2.47f7773f.chunk.js",
+    "static/css/main.d6abe205.chunk.css",
+    "static/js/main.7398f610.chunk.js"
+  ]
+}
